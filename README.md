@@ -1,6 +1,6 @@
 ## Propensify: Propensity Model for Targeted Marketing Campaigns
 ### Overview
-Understanding customer behavior is crucial for successful marketing strategies. Businesses often invest significant resources into data-driven campaigns, yet they frequently struggle to achieve satisfactory results. The real value of customer information lies in its effective utilization; however, many organizations possess large datasets that may include outdated or irrelevant data.
+Understanding customer behavior is crucial for successful marketing strategies. Businesses often invest significant resources into data-driven campaigns, yet they frequently struggle to achieve satisfactory results. The real value of customer information lies in its effective utilization; however, many organizations possess large datasets that may include outdated or the irrelevant data
 
 Propensity modeling serves as a strategic approach to forecast the likelihood that individuals will engage in specific actions. By employing statistical analysis, this method considers various independent and confounding factors influencing customer behavior. As a Data Scientist, I am tasked with creating a tool to optimize marketing efforts for an insurance company by developing a propensity model to identify potential customers.
 
